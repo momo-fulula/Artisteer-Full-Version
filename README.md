@@ -243,4 +243,4 @@ This repository serves as the official landing page for Artisteer. The software 
 **Get the most recent version of Artisteer today!**
 
 ---
-**Last updated:** 2026-09-09 14:50:50 UTC
+**Last updated:** 2026-09-09 18:04:27 UTC
